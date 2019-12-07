@@ -18,6 +18,5 @@ public class ThirdExercise {
       System.out.println(number + " is zero");
 
     }
-
   }
 }
